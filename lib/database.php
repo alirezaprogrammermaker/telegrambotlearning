@@ -1,8 +1,8 @@
 <?php
 define("host" , "localhost");
-define("db_username" , "easypane_learn_telegram");
-define("db_password" , "#g[Xez0DNVP9");
-define("db_database_name" , "easypane_learn_telegram");
+define("db_username" , "root");
+define("db_password" , "");
+define("db_database_name" , "telegram");
 $charset = 'utf8mb4';
 $option =[
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
